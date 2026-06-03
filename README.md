@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 B.Tech Computer Science Engineering Student<br><br>💻 Passionate about Frontend Development and creating responsive, user-friendly web applications<br><br>🌱 Currently learning React.js, JavaScript, and modern web development technologies<br><br>🚀 Building projects to strengthen my development and problem-solving skills<br><br>📚 Exploring Full-Stack Development and working towards becoming a MERN Stack Developer<br><br>🎯 Seeking opportunities to learn, grow, and contribute as a Frontend Developer Intern</p>
+<p align="left">🎓 B.Tech Computer Science Engineering Student<br><br>💻 Frontend Developer focused on building responsive and user-friendly web applications<br><br>🌱 Currently learning React.js, JavaScript, and modern web development technologies<br><br>🚀 Building projects to strengthen my development and problem-solving skills<br><br>📚 Exploring Full-Stack Development and working towards becoming a MERN Stack Developer<br><br>🎯 Seeking opportunities to learn, grow, and contribute as a Frontend Developer Intern</p>
 
 ###
 
