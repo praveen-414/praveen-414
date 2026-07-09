@@ -66,15 +66,35 @@
 
 <h2 align="left">🚀 Projects</h2>
 
-###
+<p align="left">
 
-<p align="left">🛍️E-Commerce Web Application<br><br>Technologies: React.js, Redux Toolkit, Tailwind CSS, React Router<br><br>• Built a responsive E-Commerce web application with product browsing and cart management.<br>• Implemented add-to-cart, remove-from-cart, and quantity update functionality using Redux Toolkit.<br>• Developed a fully responsive user interface optimized for mobile, tablet, and desktop devices.</p>
+### 💬 QuickChat
 
-###
+**Technologies:** React.js, Redux Toolkit, Tailwind CSS, Node.js, Express.js, MongoDB, Socket.IO, ImageKit
 
-<p align="left">🌐 Personal Portfolio Website<br><br>Technologies: React.js, Tailwind CSS, Framer Motion<br><br>• Created a responsive portfolio website showcasing skills and projects.<br>• Implemented a modern user interface with smooth animations using Framer Motion.<br>• Optimized performance and user experience across the application.<br>• Ensured seamless compatibility across mobile, tablet, and desktop devices.</p>
+* Developed a full-stack real-time chat application using the MERN Stack and Socket.IO.
+* Implemented secure JWT authentication with HTTP-only cookies.
+* Built one-to-one real-time messaging with online/offline user status.
+* Integrated ImageKit for profile picture upload and management.
+* Designed a responsive and user-friendly interface for desktop and mobile devices.
 
-###
+### 🛍️ Quick Kart – E-Commerce Web Application
+
+**Technologies:** React.js, Redux Toolkit, Tailwind CSS, React Router
+
+* Built a responsive e-commerce web application with product browsing and cart management.
+* Implemented add-to-cart, remove-from-cart, and quantity update functionality using Redux Toolkit.
+* Developed a responsive user interface optimized for mobile, tablet, and desktop devices.
+
+### 🌐 Personal Portfolio Website
+
+**Technologies:** React.js, Tailwind CSS, Framer Motion
+
+* Designed and developed a responsive portfolio website to showcase projects and technical skills.
+* Implemented smooth animations using Framer Motion.
+* Optimized performance and ensured compatibility across desktop, tablet, and mobile devices.
+
+</p>
 
 <h2 align="left">🌐 Connect with Me</h2>
 
