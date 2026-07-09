@@ -1,24 +1,47 @@
 <h1 align="left">Hi 👋, I'm Praveen</h1>
 
-###
+<p align="left">
+Aspiring MERN Stack Developer | React.js | Node.js | Express.js | MongoDB | Engineering Student
+</p>
 
-<p align="left">Aspiring Frontend Developer | React.js | JavaScript | Tailwind CSS | Engineering Student</p>
+<h2 align="left">👨‍💻 About Me</h2>
 
-###
+<p align="left">
+🎓 B.Tech Computer Science Engineering Student
+<br>
 
-<h2 align="left">👨‍💻  About me</h2>
+💻 Passionate about building responsive and user-friendly web applications using the MERN Stack.
+<br>
 
-###
+🌱 Currently learning React.js, Node.js, Express.js, MongoDB, and modern web development technologies by building real-world projects.
+<br>
 
-<p align="left">🎓 B.Tech Computer Science Engineering Student<br><br>💻 Frontend Developer focused on building responsive and user-friendly web applications<br><br>🌱 Currently learning React.js, JavaScript, and modern web development technologies<br><br>🚀 Building projects to strengthen my development and problem-solving skills<br><br>📚 Exploring Full-Stack Development and working towards becoming a MERN Stack Developer<br><br>🎯 Seeking opportunities to learn, grow, and contribute as a Frontend Developer Intern</p>
+🚀 Enjoy creating full-stack applications that strengthen my development and problem-solving skills.
+<br>
+
+📚 Continuously exploring new technologies and improving my frontend and backend development skills.
+<br>
+
+🎯 Seeking opportunities to learn, grow, and contribute as a Software Development or MERN Stack Intern.
+</p>
+
+
 
 ###
 
 <h2 align="left">🎓 Education</h2>
 
-###
+<p align="left">
+🎓 <b>B.Tech in Computer Science Engineering</b> (2023 – Present)
+<br>
 
-<p align="left">🎓 Computer Science Engineering Student (2023 -Present)<br><br>- Currently pursuing a B.Tech in Computer Science Engineering <br>- focused on Frontend Development, React.js, JavaScript, and modern web technologies.<br>- Actively building projects and learning the MERN Stack.</p>
+🏫 Currently pursuing my undergraduate degree in Computer Science Engineering.
+<br>
+
+💻 Building a strong foundation in Data Structures & Algorithms, Web Development, and Software Development through academic learning and hands-on projects.
+
+</p>
+
 
 ###
 
